@@ -1,4 +1,5 @@
 import Link from "next/link"
+import NextImage from 'next/image'
 
 const Navbar = () => {
   return (
